@@ -12,4 +12,4 @@ There is nothing to build; the files are read as they are.
 
 ## Licence
 
-CC0 1.0, as `arm-pulser.json` records.
+CC0 1.0. See [LICENSE](LICENSE).
